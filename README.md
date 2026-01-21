@@ -19,16 +19,10 @@ This project demonstrates modern frontend design using HTML and CSS, focusing on
 
 - HTML4
 - CSS2
-- Responsive Design (Flexbox )
+- Responsive Design (Flexbox)
 
 ## 🎨 Highlights
 
 - Clean & modern UI
 - Fully responsive (mobile, tablet, desktop)
 - Semantic and accessible markup
-
-## 📁 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
