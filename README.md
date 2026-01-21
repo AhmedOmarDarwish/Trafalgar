@@ -17,9 +17,9 @@ This project demonstrates modern frontend design using HTML and CSS, focusing on
 
 ## 🧠 Built With
 
-- HTML5
-- CSS3
-- Responsive Design (Flexbox / Grid)
+- HTML4
+- CSS2
+- Responsive Design (Flexbox )
 
 ## 🎨 Highlights
 
