@@ -2,6 +2,8 @@
 
 # Trafalgar — Healthcare Landing Page
 
+![Trafalgar Preview](images/Trafalgar%20Cover.jpg)
+
 A responsive healthcare landing page that showcases a virtual healthcare platform.  
 This project demonstrates modern frontend design using HTML and CSS, focusing on usability, accessibility, and clean UI.
 
